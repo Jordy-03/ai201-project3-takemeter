@@ -1,3 +1,5 @@
+Link to video: https://youtu.be/SlEuwpC0eSI
+
 # TakeMeter: Steam Review Sentiment Classifier
 
 A fine-tuned text classifier that sorts Steam game reviews into `positive` or `negative` by the reviewer's overall stance, compared honestly against a zero-shot large language model baseline.
